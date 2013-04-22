@@ -33,7 +33,7 @@ der navn og email legges inn. Dette er for å eventuelt kunne gå tilbake
 i historien for å se hvem som har lagt inn og godkjent forandringen. De 
 som gidder, kan også legge inn en
 
-   Signed-off-by: Navn Etternavn <email@example.com>
+    Signed-off-by: Navn Etternavn <email@example.com>
 
 på slutten av loggmeldinga.
 
