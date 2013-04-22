@@ -1,0 +1,226 @@
+== 2013-04-06 10:48 ==
+
+'''IT og internett'''<br>
+IKT-politikk og  telekommunikasjon
+
+* Eige IT-departement med reell makt. Fornyings- og administrasjonsdepartentet er eit pingledepartement compared til f.eks. finans- eller næringsdepartementet. (Vegard) Jeg ser  for meg et dept som har rådgivningsfunksjon for alle andre dept. Kan lage en org. struktur derssom noen ikke forstår hva det innebærer
+* Se på FAD som et støttedept. for de andre departementene (sørge for sikkerhet, IT, bygningsmasse osv). Se på finansieringsmodellen for FAD for å øke prestisjen og sørge for at de ikke faller bakpå i forhold til "viktigere" dept. som justis, finans osv. Evt kreve at alle større IT-anskaffelser gjøres med rådgvning fra FAD (noe som vil åpne et nytt ormebol med byråkratisering osv)
+* Bare en liten parantes:Kan vi prøve å utforme breddeprogrammet så dette punktet ikke blir 15 sider lengre enn de andre? Bare for syns skyld?
+* Politikk er politikk. Jeg tror det er umulig å få til. Men når det er sagt: Jeg håper at vi får til et 30 siders prinsipp program.
+* Opprette et departement som skal stå for utvikling av kravspesifikasjon, akseptansetesting og drift av software som staten bruker. (Thomas Steen)+
+* Vurdere alternative anskaffelsesformer for programvare og tjenester som staten kommer til å yte over lang tid, f.eks saksbehandlingssystemer som NAV, Altinn, Minside, osv. Prøve å ungå å sette det bort til en levrandør som får all kunnskapen om hvordan systemet fungerer, og som i praksis hemmer konkurranse ved neste utlysning. Alternativt kreve at man bytter levrandør hver gang kontraktene går ut.
+* Gjøre det enklere å bytte leverandører/legge til rette for konkuranse på flere telekom områder, som kabel TV/Internett, f. eks ved å pålegge kabel nettverkseierene å gi tilgang til sine nett (Storm)
+* La den siste mila med fiber være kommunalt administrert. (gjerne med private utbyggere osv.), alternativt innføre hjemfallsrett på fiber på 30 år, men fremdeles ha konkurranse med tilbydere på fellespunkter for hvert 1000'de hus (eller hvordan nå telenettverket er organisert). Tjenester for å tilby internett til sluttkundene bør fremdeles være kommersielt, men kun via kommunale nettverk for siste mila.
+* Diskusjon:
+* En mulighet er nasjonalisering av alt av fiber, kobber og coax nettverk (Fiber, vanlig fast tlf/ADSL og kabel TV). En lettere mulighet er å kreve at nettverkseiere gir tilgang over sitt nett til andre leverandører uten profitt på nettverket (Altså kun til prisen det koster å drive nettverket) 
+* (tror det gjøres i dag for de som har stor markedsandel) Det gjøres idag for Telenor sitt fastnett. Kabel TV og Fiber er enda forbeholdt ett selskap, som gjør at hvis du vil bytte fra f. eks Canal Digital til Get må du ha ny kabel inn i huset, ihvertfall sist jeg sjekket. stor markedsandel tolkes = telenor ( av NPT) Problemet er at hvis det ikke gjøres på kabel TV og Fiber, så hindrer det konkuranse, da du må grave opp hagen din hvis du vil bytte leverandør for å få en billigere tjeneste. Å bytte nett eller TV leverandør burde være like lett som å bytte mobil leverandør.
+* Derfor mener jeg slik infrastruktur ikke bør konkuranseutsettes, men leveres av det offentlige (med den innefektiviteten det kanskje fører til)
+* Problemet jeg ser her er at det vil føre til å måtte kjempe for å nasjonalisere eksisterende infrastruktur, som ihvertfall jeg ser på som ett mulig upopulært forslag sett med nasjonens øyne, men mulig jeg tar feil. Er i prinsippet enig, men tror ikke de fleste er det.
+* Tror de fleste er det, men at de ikke tenker så langt og at vi ikke greier å overtale dem til det.  
+* Det mest realtistiske er å innføre vertikalt skille mellom sluttbruertjenester og tjenester til ISP'er (dvs levere siste mila for private), dvs på samme måte som gjøres for nettleie for strøm. (som jeg forsåvidt også vil gjøre kommunal av samme grunn, med samme problemer).
+* Så du ser for deg nettselskaper for telekommunikasjon eller kommunalt drevet lokalnett? Gode ideer, men tror ihvertfall den vil bli delvis upraktisk å gjennomføre, men på en annen side ble det gjort for strøm, så muligens.
+* Jeg er enig i at det er utfordrende å gjennomføre, men jeg synes det er fornuftig å ønske å gjøre det for det. 
+** Alternativt nekte de som eier nettverket å tilby tjenester til sluttbrukere slik at alle sluttbrukerlevrandører stiller likt.
+
+
+'''Barn, likestilling og inkludering'''<br>
+Barn og unges oppvekst- og levekår, familie- og samliv, forbrukerinteresser, kjønnslikestilling, antidiskriminering og integrering av innvandrere.
+
+* Høyere krav til internkontroll og oppfølging av barnevernet. Mye snusk og glipper der! Kevin.  Jeg leste en kommentar på nett - problemet med barnevernet er at det er alt for mange unge damer uten livserfaring og uten egne barn som jobber der.  Det er kanskje et snev av sannhet i det.  Jeg har erfaring med eldre mødre som jobber i barnevernet, det er bare gode erfaringer.  Jeg har annenhåndserfaring med barnevernet i Tromsø, det er en ganske horribel historie - men nå kjenner vi jo bare en side av saken (venner av oss som "måtte" sende yngstesønnen til hviterussland fordi de var bekymret for at barnevernet skulle ta ham - de hadde allerede tatt eldstedatra fra dem).  Ellers - det er et generelt problem at vi bare hører de verste sakene gjennom media, og at vi bare hører én side av saken (barnevernet har jo taushetsplikt).
+* Jeg har hatt møter med relativt mange ex BV ansatte. De er sjokkert over hvordan institusjonen fungerer. Uten unntak (Kan vi kalle dette en uheldig effekt av at BV er laget på kommunalt grunnlag?)
+* Nei til tvangskastrering av transkjønnede. (Tale)++ (Ja, dette er faktisk en ting i Norge.) Hæ? Det har jeg ikke hørt om. Fortell.
+* La familier selv balansere hele fødselspermen slik de ønsker, -en liten rekonstitusjonsperiode for mor. (Thomas Steen)
+** for å få aksept i arbeidslivet er det fornuftig å sette av en viss del av permisjonen til hver forelder (f.eks 2 uker til mor, 2 til far og 4 som kan velges) slik at det blir vanlig at både fedre og mødre kan bli borte (og dermed ikke mer attraktivt i ansette menn fordi familiene stort sett lar de være i jobb) så kan man fjerne den kvoteringen når det blir vanlig/sosialt akseptert at folk gjør det av fri vilje
+* Alle kjønn er likestilte. Piratpartiet tar sterk avstand fra kjønnsdiskriminering og sexisme, uavhengig av biologi (jfr. cic- og transkjønn) (Tale)
+
+
+'''Dyrevern+'''<br>
+
+* Ja til dyrepoliti, dyras vern må tas ut av Landbruksdepartementet og Mattilsynet som per i dag gjør en for dårlig jobb. (Geir Aasen)
+* Legge ned mattilsynet, opprette et næringsdepartement og et dyrepoliti. (Mattilsynet har utspilt sin rolle ved at de ikke oppdaget hestekjøtt eller svin i kebab)
+* Evt. holde Mattilynet til MAT? Dyr regnes som mat i dag. Mattilsynet må legges ned og nytt departement opprettes. Dette tilsynet bør også stå for kostholdstips med større variasjon enn dagens potet og fisk!Jeg ble interessert i å diskutere en delt struktur nærmere etter dette. Æsj, jeg glemmer stadig at folk flest spiser dyr :-/ Derfor jeg må minne deg på det. Ja. Sukk. Kjøtt er gøtt, som vi sier borte hos oss.Og fisk er en grønnsak som vokser i havet, som vi sier her i gården
+* Dyrevernere kommer til å spørre: Vi må bestemme oss for pelsfarmer. Sette større krav? Nedlegge over tid?  Pels er en god eksportvare. Jeg vet. Derfor vi må ha en debatt hva vi mener. Dyrevernere blir et problem eller meget glad i oss.  Pels er fint for å holde varmen.  Nei til dyre pelser! ;-)  Enten produserer vi pelsen i Norge i kontrollerte forhold, ellers vil folk importere fra ukjente forhold. Og forbyr vi import, så lager vi svart marked. Det er lose-lose denne saken.  Godt poeng  (Thomas) 
+* Statssubsidiering av helsesjekk og sterilisering av eierløse katter, evt. avliving ved sykdom. (Ja, jeg vet denne er i samme kategori som sau som blir drept av ulv... Men det er et miljøtiltak. Det er også en indirekte støtte til dyrevernsorganisasjonene, de funder mye av dette av egen lomme i dag.) (Thomas Steen) Meget enig med deg, Thomas. Slikt arbeid er viktig for å sikre at det ikke unødig fødes katter som går løse (Geir).
+
+
+'''Finans'''<br>
+
+* kommunene må få egne lokale budsjetter basert på reelle inntekter i kommunen og ikke overføringer(tommyk)
+* Planlegge og iverksette den økonomiske politikken, overvåke finansmarkedene og samordne arbeidet med statsbudsjettet.
+* Mer åpenhet i aksjemarkedet, redusere handlingsfriheten til aksjeroboter. (Thomas Steen)
+* Utrede mulighet for kryptopenger (Ja, vagt, men det kan erstatte sedler og mynter og likevel være relativt anonymt hvis det er gjort rett) (Thomas Steen)
+* Godkjenne Bitcoin/Litecoin som betalingsmiddel (Geir Aasen) Det er selvsagt etter kjernen, er det ikke? Jaok , nvm. Kan slettes.
+* Hva betyr det? Gjøre det tvungent betalingsmiddel? Skal man kunne få lønn i det, skal man kunne betale skatt med det? Tror Bitcoin er en for ustabil valuta til at den kan brukes i offentlige sammenhenger. Folk risikerer å tape store penger hvis den plutselig stuper. Det er ikke for å rakke ned på digital valuta, det er helt klart noe som kommer, men tror ikke BTC er den endelige løsningen. Vi kan bruke betegnelsen «digital, dstribuert valuta» eller noe i den dur?
+
+'''Fiskeri- og kyst'''<br>
+Fiskeri- og havbruksnæringa, fiskehelse og fiskevelferd, sjømattrygghet og -kvalitet, havner, infrastruktur for sjøtransport og beredskap mot akutt forurensing.
+
+* Utrede mulighet for fiskeoppdrett i gigantiske fjellhaller, med renseanlegg og laksetrapp. Vi har nok av vann og fjell til å lage slikt. (Thomas Steen)
+* Ikke ha korrupte fiskeriministere med dype tilknytninger i oppdretten. (Hesten og havren.)Kevin.Dette kan sies om alle ministerstillinger (Madkips).
+
+
+'''Administrasjon og Livssyn'''<br>
+Samordner fornyingsarbeidet i offentlig sektor og har ansvar for forvaltningspolitikk, konkurransepolitikk, kirkesaker, statlig arbeidsgiverpolitikk og spørsmål knyttet til samer og nasjonale minoriteter.
+
+* Markere et klart skille mellom kirke og stat. Særbehandlingen av kristendommen må ut av Grunnloven, den må være strengt sekulær. Samtidig må kirkeskatten opphøre. Folk får betale selv for sine religiøse aktiviteter, det er ikke et statlig anliggende. (ØAH)
+* Standardisere kommuners datasystemer fra nasjonalt nivå, for å beholde kompetanse når folk flytter på seg. (Thomas Steen) (1 system per kommune er egentlig uholdbart.) - motargumentet er at komuner skal tiplasse til lokale behov, men kanskje det går at kommunene kan komme med innspill på hvilke spesielle krav de har og at man kan lage et felles system som kan tilpasses med moduler til hver kommune.
+
+
+'''Forsvar'''<br>
+Ansvar for utforming og iverksetting av norsk sikkerhets- og forsvarspolitikk.
+
+* Redusere eller oppheve kjøpet av F-35 (Vegard Solheim)
+* Mulig vi ikke burde regelrett erklere at vi vil redusere eller oppheve F-35 kjøpet, men muligens heller være for en revurdering kjøpet.
+* Fjerne verneplikt (Thomas Steen)
+* Likestille verneplikt (Thomas Steen)
+* Øke fokusområder til Heimevernet. Gi heimevernet opplæring i informasjonsinnsamling, formidling, og grunnleggende militærtrening, men avvæpne. Anonymisere medlemmer av heimevernet. Jobbe tettere med lokalbedrifter. I en krigssituasjon så bør heimevernet fungere som lokalkjente for et helprofesjonelt forsvar, som kan brukes til etterretning og forsvar av leir. Men det er viktig at heimevernet har ingen dokumentasjon eller navn på folk som har denne treningen, slik at invaderende styrker ikke kan gå etter de. (Thomas Steen)
+* Samkjøre beredskapsorganisering mellom forsvaret, heimevernet , sivilforsvaret og politireservene. Alle instanser som kan ha behov for ressurser fra disse beredskapsorganisasjonene må vite hva de har kunnskap om/opplæring til. (Dette er etter egen erfaring som vernepliktig i Sivilforsvaret, som oftest kalles ikke sivilforsvaret ut til oppdrag de kunne bidratt på, fordi mange politi/brann-etater ikke har kjennskap til hva vi er gode for).
+
+
+
+'''Helse- og omsorg'''<br>
+
+* sykehusene må drive seg selv, ha eget budsjett og egen valgt ledelse(tommyk)
+* åpenhet og innsyn i helsevesenet må være slik at alle kan se hvilke skader og dødsfall som skjer ved hvert sykehus(tommyk)
+* Ansvaret for at befolkningen får gode og likeverdige helse- og omsorgstjenester, uavhengig av blant annet bosted og økonomi.
+* http://forum.piratpartiet.no/viewtopic.php?f=18&t=308 (strålende Thomas)
+*  Øyne og munn inn i folketrygden med egenandelsordning slik som med resten av kroppen! kevin. https://www.facebook.com/pages/Gratis-Tannhelse-tannhelsen-inn-i-folketrygden/322946761080936 En side jeg har startet på FB. Kevin.
+*  Utrede muligheten for salg av narkotiske stoffer via apotek (MDG-ripoff).  Medisinsk cannabis kan sikkert være der, men det hører vel mer hjemme på Vinmonopolet (som i så fall bør skifte navn til Rusmonopolet) Og skal vi i det hele tatt ha et monopol på det? Andre land klarer seg vel forsåvidt greit uten.
+*  Utrede mulighet for psykisk legevakt (akutt psykolog/psykiatri) (Thomas Steen)+
+* Økt fokus på fakta- og kunnskapsbasert informasjon rundt mat. (MDG-ripoff) Struktur Thomas Kom med detaljer etter 15. april. Jeg sletter alle detaljer, men jeg tar vare på alle innslag. Piratkopierer alt ;)
+* Myke opp norske kosttilskuddslover så de er nærmere internasjonale standarder, slik at produkter kan selges i landet, og/eller ikke blir stoppet i tollen. ref: http://forum.piratpartiet.no/viewtopic.php?f=18&t=300 Det bør helt klart være en frivillig sak hva man putter i kroppen av kosttilskudd, ja. Men hvis staten skal sponse det til medisinsk bruk, bør det eksistere seriøs dokumentasjon på at det virker – gode studier der blindingen er på plass og det brukes kontrollgrupper. Dette gjelder også villedende markedsføring. Påstander i reklame må være godt dokumentert. Hvor godt dokumentert er dagens verdier?
+
+
+'''Velferdsstat+'''<br>
+Ansvaret for at folk som er ute av jobb, folk som har permanent sykdom osv. (i praksis NAV).
+
+* Skal norge være hele EU's trygdekontor? (kommer EU med kipe rettsdommer og tvinger oss til det?)
+* Fokusere enda mer på at man opparbeider seg muligheter etter å ha arbeidet (og skattet etter et par år).
+* Alle NAV-tilsette og støtteordningar skal være organisert under staten (per i dag er sosialstønadsdelen kommunal og gjer den veldig mykje vanskelegare for dei som allereie er i ein vanskeleg situasjon.
+* Boligstøtte osv bør muligens være organisert av komunen ettersom det er avhengig av lokale forhold.
+* Mene noe om:
+** sykepenger & atføringsordninger
+** Utrede borgerlønn/negativ inntektsskatt / Prøveperiode i kommuner med høyt sykefravær men mangel på arbeidskraft? (Thomas Steen)
+** Redusert arbeidsgiverskatt (avgift?) i 2 år hvis arbeidstaker har gått arbeidsløs i 6+ måneder før ansettelse. (Thomas Steen) (Tallet er justerbart, poenget er å gjøre det greit for arbeidsgiver å satse på ungdom/folk med lite arbeidserfaring. Dobler også ved å passe på at folk ikke faller utenfor jobbsystemet for lenge om gangen).
+** pappaperm & svangerskapspermisjon
+* Fjerne arveavgiften. Det er kraftig umoralsk at eiendeler skal skattlegges to ganger bare fordi de skifter eiere. Mange må selge barndomshjemmet for å få råd til å betale den, rikfolk slipper dette problemet. Dette er også et særnorskt fenomen som jeg ikke ser noe poeng i. (ØAH)
+
+'''Arbeid'''<br>
+Politikk knyttet til arbeidsmarked, arbeidsmiljø, pensjoner og velferd.
+
+'''Justis- og beredskap'''<br>
+Ansvar for samfunnssikkerhet og beredskap, kriminalitetsbekjempelse og kriminalomsorg, innvandring, domstoler og lovarbeid.
+
+* Ansette Jack Bauer, hørte han var ferdig i USA. (Thomas Steen)......o_O Judge Dredd ^^LOL - helgens moro Nja, Jack Bauer har en tendens til å bruke ufine avhørsmetoder. Bedre med MacGyver.
+* Kreve større etterprøvbarhet av politi innenfor digital kompetanse ved etterforsking. (Thomas Steen)
+* Kreve at alle innsyn i registere ol. gjort av politi blir loggført og gjøres åpen for innsyn når det ikke er fare for saker eller rikets sikkerhet (maks etter 50 år).
+* Kreve større etterprøvbarhet av rettssaker ved hjelp av video- og lydopptak (Thomas Steen)+
+* Avkriminalisere narkotiske stoffer. (Thomas Steen)
+* Avkriminalisere brukerdoser av narkotiske stoffer. (Thomas Steen)
+* Legalisering av narkotiske stoffer. (Thomas Steen)(Ideelt sett, legalisere mildere og 'ufarlige' narkotiske stoffer som ikke har noen kjemisk skade på kroppen som feks. LSD, Cannabis, psilocybin, ecstacy etc. M. Waagnes) 
+* Legalisering men monopolisering av narkotiske stoffer (salg via Vinmonopolet f.ex) (Thomas Steen)+
+* Men detaljene tar vi etter 15. april. Først struktur. Dvs.: Kan vi omstrukturere disse politiske emnene på en bedre måte for å fremme kjernen til PIR? Det må vel være i så fall at individets frihet står størst, men samtidig må det ikke gjøre skade på samfunnet. Individet står likevel øverst Enhver form av forbud vil føre til negative effekter for både samfunn og individ.+ Avkriminalisering vil løse litt. + (men først struktur please)Salg på apotek ved resept vil løse litt. Legalisering... Der er jeg personlig skeptisk fremdeles, men legalisering via monopolisering, det har jeg mer tro på.
+* Gi politiet et datasystem 2013 verdig. (Thomas Steen)
+
+
+'''Kommune og regional'''<br>
+
+* Kommuner må selv på eget initiativ slå seg sammen, eller dele seg opp (tommyk)
+* Ansvaret for bolig- og bygningspolitikken, distrikts- og regionalpolitikken, kommuneøkonomi, lokalforvaltning og gjennomføring av valg.
+* Enten:
+#	Redusere antall kommuner
+#	Øke antall fylker --> I dagens situasjon, så bor folk i en kommune, man jobber i en annen, og har barn i skole i 3, mens besteforeldre er på gamlehjem i fjerde og man har hytta i 5. Og man har kun stemmerett i en av disse kommunene i kommunevalget. En har altfor liten representasjon. Samtidig omfordele oppgaver mellom fylker og kommuner. (Thomas Steen)
+* Reduser antall kommuner til 3-4 pr fylke.Kevin (Hvorfor ikke 1 kommune per fylke når vi først er i gang?)
+* Slå sammen Aust- og Vest-Agder ;) MVH Tale, lei av fylkesgrensa. Det er forresten kanskje for spesifikt? (sak for etter 15. april. Jeg bestemmer, siden jeg laget padden  ;) )Da kan du slette heile sjiden. Asså min sjid+ LOL
+* Gjøre offentlige kartdata fritt tilgjengelige for næringslivet og allmennheten.  (MDG-ripoff)
+* I byggesøknader, gi kommuner en X uker lang frist til å godkjenne eller underkjenne søknaden. Om kommunen ikke gir svar innen fristen, skal det gjelde som en godkjenning. (Thomas Steen) (Vi kan ikke tillate at kommunerer trenerer prosesser, dette fungerer visst strålende i Frankrike)
+
+
+'''Kultur'''<br>
+Ansvar for kultur, medier, idrett, frivillig virksomhet, tros- og livssynssamfunn og pengespill og lotteri
+
+* Tillate poker. (Thomas Steen)+1 (Geir)
+*  Finne måter å balansere gambling og begrense spillgalskap (kreve at alle steder som tilbyr poker registerer seg, sette beløpsgrenser per spiller per mnd el.) Spillegalskap er et problem mest fordi det er stigmatisk, her kan nok noe gjøres.
+* Tillate boksing (men med store restriksjoner på alder... Jeg er selv veldig usikker på denne, men dette med å la folk gjøre det de vil og det.) (Thomas Steen) Har det blitt gjort forskning på senskader fra boksing? Det kan ikke være sunt å utsette en uutviklet hjerne for denslags. Det må være en nedre aldersgrense for det.Kan ikke ha særnorske regler for ekstremsport som gjør at utøvere som vil praktisere dette må dra til utlandet bare for å praktisere det -hint Brækhus hint- (Madkips).
+* Gå inn for tilrettelegging av mer bruker- og utøvervennlige forretningsmodeller for kulturkonsum. (Tale)
+* Ha en konkret alternativ modell for copyright man vil jobbe mot. f.eks Genero, ikke bare si at man vil regusere vernetiden og fjerne straffer for privat/pirat-kopiering. 
+* Opprette kulturverksted i områder med stor bebyggelse. Ateliérer, opptaksstudioer, redigeringsrom. (MDG-ripoff) (Det finnes brakker som er ferdiglagd man kan leie.) Let's copy them happy :)
+
+
+'''Kunnskap'''<br>
+
+* skolen er sentralstyrt og må bli lokalstyrt. Lærerene (kollegial) må selv bestemme over egen klasse, pensum og hvem som skal delta i undervisning. Vurdering gir bare mening på klassenivå(tommyk)
+* Ansvaret for barnehager, grunnskole, videregående opplæring, høyere utdanning og forskning.
+* Innføre nytt fag i grunnskole. Personlig økonomi, Sparing, budsjett etc. Vi går skole for å tjene penger når vi blir eldre men vi blir ikke lært en damn shit om penger før man får livet tredd i hue etter å ha flytta hjemmefra :) Jeg har tenkt det samme. Kall det Samfunnslære, og sleng inn trafikkregler og arbeidsliv (rettigheter, plikter), hvordan søke/betjene lån.
+* Fjerne karakter i gymfag. (Thomas Steen) (Evt; Endre navn fra gymfag til Kroppslære, og gjøre det fullstendig teoretisk, og inkludere bedre kostholdslære. Øke mengden aktivitet ellers (gåturer, ikke høypulsaktiviteter))
+* Gjøre nynorsk og bokmål fullstendig likestilt, ved at elevene selv får velge hvilket de vil skrive i. Men alle elever skal lære lese begge. Man karaktervurderes kun i hovedmål. (Thomas Steen)
+* Hvis vi er enige om at engelsk er det moderne lingua franca, bør de også lære engelsk rimelig tidlig. Vet ikke helt når de starter nå for tiden. (ØAH)
+* Innføre større skille mellom realfag (inkl økonomi) og kunskterniske fag på allmenfag / videregående skole, særlig i norsktimene (Jeg trenger ikke kunne om de 4 store og skrive kåseri for å programmere, men trenger mer erfaring i rapportskrivning, brukerdokumentasjon osv.)
+* Elever og studenter skal regnes som arbeidere under arbeidsmiljøloven sine deler om fysisk og psykisk arbeidsmiljø. (Vegard Solheim)
+* Styrke realfagene, men en økning i timeantallet bør være for de som er mer interessert
+* Innføre grunnleggende logikk og programmering i barneskolen, f.eks. programmeringsgrensesnittet Scratch som er dra-og-plasser-programmering. Videre undervisning i logikk og programmering bør skje som valgfag fra rundt 5. klasse. LærKidsaKode er naturlege å samarbeide med her.
+* Piratpartiet ønsker å gå gjennom eksisterende forskning på følgende tema og se om og hvordan de best kan innkorporeres i norsk skole:
+** Mestringsbasert læring.
+** Gamification med tilpasset programvare
+** Individuell progresjon (vha. digitale læremidler).
+* Lære alle grunnlengende programmering og logikk (for/while-løkker, if-tester og evt. funksjonskall), gjerne når man lærer bort ligninger på ungdomsskolen. Ikke minst, lære hvordan en datamaskin «tenker». Vis dem at den egentlig er stokk dum, og bare gjør som den får beskjed om. Men helt klart en nyttig ting å lære om løkker etc, da kan de bruke maskinen til å løse matematiske eller praktiske problemer de kommer over.
+* Piratpartiet ønsker gjennomganger i læreplanene for grunnskolen for å sile ut deler av fag som ikke lenger er nødvendige / er for tidkrevende kontra læring. Med "Internett i lomma" (smarttelefonar) er det alt for tidkrevjande og unødvendig å pugge ting som årstall, navn, definisjonar og liknande kontra læringsutbyttet. Dette er tid som er langt betre brukt på andre fag / anna arbeid.
+* Ikke uttømmende liste over eksempel på emner som er unødvendige:
+* Løkkeskrift. Skrivemåten er i langt mindre bruk i dagens samfunn da små bokstaver har erstattet det, og det koster utrolig mye tid og krefter på barneskolen kontra de positive effektene en får
+* Store deler av lyrikk, dikting og tekstanalyse i norskfaget. Språkfaget skal være for å lære språket og gi glede til å bruke det
+* Deler av historiefaget. Elever bør lære generell historie og få glede til å finne ut mer selv. Å pugge årstall og navn er i Internettets tidsalder en bortkastet ting å gjøre
+* Deler av andre fag som inneholdet mye spesifikk fakta som ikke nødvendigvis har ein praktisk betydning kunne, så lenge en har tilgang via andre kilder. Samtidig er det en fordel at ungene lærer seg enkelte puggbare ting som kan være nyttige. På dette tidspunktet har de fleste unger klisterhjerne, og nyttig informasjon sitter spikret resten av livet.
+* Gi eksempler på bruksområder for læringsmål på skolen. (e.g. hva ligninger kan brukes til, hvorfor man bør kunne historie osv.)
+* Innføre Kritisk Tenking som eget fag i skolen. Med dagens informasjonsflyt er det en nødvendighet at barn lærer seg fra et tidlig tidspunkt å stille kritiske spørsmål til informasjonen de får. Den kommer i sånne store mengder at det er vanskelig å filtrere bort åpenbar svada og pseudovitenskap hvis man ikke har metodene inne. (Øyvind A. H.)
+
+
+'''Landbruk og mat'''<br>
+Ansvar for mat- og landbrukspolitikken. 
+
+* Ha eit mål om xx(x)% sjølvforsyning.
+* Målet er å legge til rette for et levende landbruk over hele landet med oppretthalding av kulturlandskapet. Viktig for bl.a turismen.
+* Genmodifisert mat – stor skepsis til det, til tross for at det hittil ikke er dokumentert skadelige virkninger av GMO-mat. Diskusjonen der er veldig preget av følerier og «det er ikke naturlig»-argumenter. (Øyvind A. H.)
+
+Miljøvern
+Ansvaret for miljøpolitikk. Initiere, utvikle og gjennomføre egne tiltak gjennom egne virkemidler. Ansvar for å sikre at det internasjonale miljøvernsamarbeidet bygges ut og styrkes.
+* Styrke forskings- og næringsinnsats på alternative energikjelder, uavhengig av klimadebatten. Geotermisk-, vind-, sol-, salt-, bølge-, kjernekraft, etc, etc, etc. (Vegard)+Satse mye mer på Vindkraft, havkraft og kansje Atomkraft?Kevin. Atom *må* utredes. + bølgekraft (som faktisk har blitt en brukbar teknologi de siste årene) Tale Og saltvannskraft, som faktisk er en thing plutselig. Hurra for teknologien!
+* Kutt ut klimakvoter! Største narrepåfunnet EVER! Kjøpe og selge friskluft så du får forrurensa den? WTF? Blir som den gangen omreisere i USA solgte Snake Oil..
+* Ikke bare kjøpe oss god samvittighet ved å kjøpe regnskog i sør-amerika, prøve å gjennomføre miljøendringer i norge der det er mulig.
+* Er vi mot Kyoto-protokollen? Kan jeg aldri tenke meg. Er den en dårlig sak?
+
+
+'''Næring og handel'''<br>
+* Komme oss ut av EØS og heller lage handelsavtaler. Som Sveits? :D Passivitet er fint. Bare se på Canada. Må jo ikke være med på alt de koker opp nede i Brussel. Med tanke på den økonomiske situasjonen i Eurosonen har vi i det minste makta (pengene) til å kunne få egne handelsavtaler. Vi kan godt gå ut av Eu/EØS, men da må vi kunne tilby gode og fungerende alternativer. Vi må også se på hva som vil være effekten på dagens og fremtidens Norge ved å gjøre noe såpass "drastisk" og eventuelt dekke opp for dette på andre måter. Kan hende at handelsavtaler ikke vil være nok i noen tilfeller (uten at jeg skal være skråsikker på det, men bedre føre var osv).Storbritannia skal jo ha en selvransakelse i nærmeste fremtid angående EU sammarbeid. Kan være nyttig å legge opp debatten om EU på lik linje som dem ettersom det da vil virke som at man ikke står alene(Madkipz).
+* Gjøre offentlige kartdata fritt tilgjengelige for næringslivet og allmennheten.  (MDG-ripoff) Da har vi ihvertfall noe å enes om med de ;D
+
+
+'''Olje og energi'''<br>
+Tilrettelegge en samordnet og helhetlig energipolitikk.
+
+* JA til oljeutvinning i norområdene! Kevin. Nei, ikke faen. Det er imot alle prinsippene våre om faktabasert politikk. Tale Resten av verden vill uansett utvinne under nordpolen med eller uten vårt samtykke. Det er ikke så mange land som har oljeresurser i polarområdet. Russerne er dritsure for utbygginga i Bartenshavet, og all forskning og konsekvensutredninger fraråder å føkke med nordområdene. Uansett om vi bruker nordområdene eller ikke, så må vi ha oljeopprenskingsutstyr og mannskap der tilgjengelig 24/7 så snart russerne starter. Større sjans for at de roter det til enn vi. Hvis russerne skal sette i gang, så er vi bedre tjent, både økonomisk og økologisk, på å samarbeide med de. Gir også goodwill. Problemet i Norge er jo at oljeberedskapen er i Nordsjøen 24/7, og den bruker mer enn 24 timer på å transporteres til Barentshavet. Selv ikke Norge, med "verdens beste oljeberedskap", er godt nok rustet for oljeutvinning i nord. Og vi har ingen garanti for at russerne setter i gang. Det er Norge som er oljekåte i nord. Inntil videre er jeg også klar nei, men om russerne begynner så må vi spørre om de er interessert i vår hjelp. Vi trenger ikke utvinne selv, men vi må ha beredsskap og levere teknologisk kompetanse. Russerne har ikke like god offshoreerfaring som Norge. Men de har mye fiskerierfaring, noe som er grunnen til at de er kritiske til oljeutvinning på norsk side av Barents. Driter vi på draget på deres fiskebestander ta støyten.Som sagt, jeg er ikke uenig med deg, men vi må være klar på at om russerne setter i gang, så har vi kun 2 valg. Håpe på det beste eller levere mest mulig hjelp. Jepp :) Jeg vil bare pushe info :) bSom en slags ekspert på de økonomiske siden ved utvinning i nordområdene; Det er dessverre nødvendig inntil vi har funnet et kommersielt alternativ til olje og gass. Da bør vi peise på for å få kommersielle alternativer.
+* Styrke forskingsinnsats på alternative energikjelder, uavhengig av klimadebatten. Geotermisk-, vind-, sol-, salt-, bølge-, kjernekraft, etc, etc, etc. (Vegard)+
+
+'''Samferdsel'''<br>
+Transport av personer og gods og posttjenester.
+
+* Langsiktige investeringsbudsjetter for veg og jernbane som får kapital frå oljefondet, á la Statkraft, Statnett og Avinor/flyplassar (Vegard Solheim)+
+* Mindre politisk detaljstyring av samferdsle. Entrepenører får ansvaret for planlegging, utføring og vedlikehold av veg og jernbane.- La vegvesenet kun stå for kontroll og bevilgninger.- Etter svensk modell. (Vegard Solheim og Thomas Steen, via IRC)+1
+* Gi Vegvesenet ansvar for sambygging av kommunikasjonsinfrastruktur ved bygging av hovedveier (f.ex fiber).- Eget selskap (enten statlig eller halvstatlig) Ja rør til fiber ved ny veig eller utbedring av gammel bør være påkrevd over alt!
+* Men hei, selv om mindre detaljstyring ville vært bra, så trenger vi fortsatt midler til jernbane, hvis ikke kommer toget til å gå treigere og treigere.
+* Mange veier inn og ut til de større byene har fortsatt samferdslige (er det et ord?) flaskehalser som dårlig vedlikeholdt veier, manglende bussfiler på lengre strekninger og mangel av sykkelveier som er gode nok. I tillegg faller både kvaliteten og kvantiteten på kollektivtrafikk ganske raskt per kilometer man ferdes utafor bygrensene. Jeg snakker av erfaring på min del av landet (pendler daglig fra Aurskog til Oslo), men håper, tror og frykter at vi ikke er et enslig eksempel i så måte. (Geir Aasen)
+* Øke mengden ladestasjoner for el-biler, og jobbe for internasjonal standard på ladetilkobling (stikkontakt). (MDG-ripoff)
+* Bør infrastruktur dekkes av staten? Bilister føler seg som melkekyr, og det er ikke riktig at veiene skal finansieres av privatbilismen. Det er ikke bare privatbiler som bruker veiene, et godt veinett er essensielt for et velfungerende samfunn, og det bør derfor være statens oppgave å dekke det. Avgifter på bilbruk bør istedenfor gå på bruksmengde, for eksempel kilometerstand, ikke om man tilfeldigvis er så uheldig å ha en bompengestasjon på vei til jobben. (Øyvind A. H.)
+* Årsavgiften på bil må skrotes. Det er urettferdig at en søndagskjører skal betale like mye som en som kjører hele uka. Jfr. forslaget om bruksmengde ovenfor. (ØAH)
+* Belønne folk som fyller opp bilen. Fra og med tre personer i bilen får de bruke kollektivfeltet. Tomme taxier der kun sjåføren kjører uten passasjererer kan ikke bruke kollektivfeltet, unntatt hvis han er på vei til en kunde. Dette er for å unngå fordyrende pris for kunden fordi taxien står i kø. (ØAH)
+* Fjerne latterlige bilavgifter som for eksempel at prisen hopper i været hvis man setter inn et baksete. Hvorfor skal man straffes for å fylle opp bilen med folk? (ØAH)
+* Innføre tre felt på veier som korker seg til om morgenen og ettermiddagen der kjøreretningen i midtfeltet forandres til den retningen trafikken går. (ØAH)
+
+
+'''Utenriks'''<br>
+Arbeide for Norges interesser internasjonalt. Norges interesser bestemmes blant annet av vår geografiske plassering i et strategisk område, vår åpne økonomi, vår posisjon som kyststat og forvalter av store marine ressurser og omfattende eksport av olje og gass.
+
+* Fortsette motarbeide internasjonale avtaler som begrenser spredning av ideer og kultur. Arbeide for å gjøre ide- og kulturdeling lettere. (Thomas Steen)
+* Redusere u-landshjelp i form av økonomisk støtte, til fordel for større handel, hvor dette er mulig. (Thomas Steen)
+* Gå sammen med Island, Finland, Sverige og Danmark å lag vår egen union som er uavhengig av EU! Den er allerede oppløst. Hvordan skal vi i praksis opprette unionen igjen?Kalmarunionstilhengere finnes over alt :)
+* Enten melde norge inn i EU, eller lage en bilateral avtale som gir oss mer bestemmelsesrett (i EØS blir Norge plassert sammen med frivillige origanisasjoner med observatørstatus når bestemmelser skal utformes) i stedet for EØS. Diskutere slike avtaler med andre euroskeptiske land som f.eks Storbritania. Melde Norge inn i EU vil gi lite bestemmelsesrett (regner med dette var poenget med første del av forslaget), vi må heller ta i bruk reservasjons retten vi allerde har (storm)+1 vetoretten brukes for sjelden i frykt for represalier fra andre medlemsland. Norge er ganske pinglete i så måte.
+* Beholde dagens forsvarspolitikk i det store og det hele 
