@@ -45,7 +45,7 @@ Issue-trackeren for breddeprogrammet ligger på
 
 ### Brancher
 
-`master`-branchen i <http://github.com/piratpartiet/breddeprogram> er 
+`master`-branchen i <https://github.com/piratpartiet/breddeprogram> er 
 stabil. Ingen forandringer skal gå direkte inn der uten at forandringen 
 er sett over og godkjent av minst ett annet medlem i 
 [Programbanden](http://wiki.piratpartiet.no/index.php?title=Programbanden). 
@@ -133,7 +133,7 @@ Det som er listet opp her, er helt grunnleggende «god praksis» ved bruk
 av Git. Brudd på denne praksisen medfører ikke nødvendigvis kjølhaling, 
 men at forandringene blir refusert og at du dermed må forandre på 
 feilene som er påpeket. Men det å introdusere feil i `master`-branchen i 
-hovedrepoen på <http://github.com/piratpartiet/breddeprogram> er en 
+hovedrepoen på <https://github.com/piratpartiet/breddeprogram> er en 
 annen historie. Det skal _ikke_ forekomme og er som oftest et tegn på at 
 konvensjonene er brutt, for eksempel at forandringer er pushet direkte 
 til repoen uten at noen andre har sett over dem. Alle kan gjøre feil, 
@@ -152,4 +152,4 @@ breddeprogrammet.
 
 ----
 
-    vim: set ft=markdom fenc=utf-8 fo=tcqnw :
+    vim: set ft=markdown fenc=utf-8 fo=tcqnw :
