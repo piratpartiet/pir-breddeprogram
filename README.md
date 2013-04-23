@@ -39,4 +39,4 @@ på slutten av loggmeldinga.
 
 ----
 
-    vim: set ft=markdom fenc=utf-8 fo=tcqw :
+    vim: set ft=markdom fenc=utf-8 fo=tcqnw :
