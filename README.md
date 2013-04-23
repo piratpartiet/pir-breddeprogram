@@ -11,14 +11,14 @@ Bruk av GitHub
 
 `master`-branchen i <http://github.com/piratpartiet/breddeprogram> er 
 stabil. Ingen forandringer skal gå direkte inn der uten at forandringen 
-er sett over og godkjent av minst et annet medlem i 
+er sett over og godkjent av minst ett annet medlem i 
 [Programbanden](http://wiki.piratpartiet.no/index.php?title=Programbanden). 
 Dette er for å unngå at feil forandringer introduseres i den stabile 
 versjonen. Pullrequester kan brukes, eller man kan henvise til branchen 
 i sin egen private klone.
 
-For å holde oversikten over hvem som har sett over forandringen 
-(branchen), legger kontrolløren inn en kommentar på pullrequesten om at 
+For å holde oversikten over hvem som har sett over forandringene på 
+branchen, legger kontrolløren inn en kommentar på pullrequesten om at 
 den er i orden og dermed kan legges inn, eventuelt hva som er feil med 
 den og den dermed må tas på nytt.
 
