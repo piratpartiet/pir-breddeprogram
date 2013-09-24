@@ -18,7 +18,7 @@ Saker kan stjeles, men en visjon kan ikke.
   - forskning må være uavhengig
   - demokratiet må bli mer åpent for borgerdeltagelse
 
-2. HVORDAN skal partiet utføre ting, basert på HVORFOR partiet eksisterer?
+2. HVORDAN skal partiet utføre ting?
 
   - Åpenhet
     - Publisering av dokumenter fra sentralsstyret og fylkeslagsstyrene
@@ -33,7 +33,7 @@ Saker kan stjeles, men en visjon kan ikke.
     - oppmuntre til gjørokratiske grupper i partiet
     - oppmuntre til kunnskap, informasjon, og læring
 
-3. HVA skal partiet gjøre, basert på HVORDAN vi ønsker å gjøre ting?
+3. HVA skal partiet gjøre?
 
   - Arbeide for å fremme årsaken til at vi eksisterer, ved å rent konkret:
     - Dyrke samarbeid og samhandling mellom interesseorganisasjoner og tiltak som har sammenfallende mål med partiet
