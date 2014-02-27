@@ -12,7 +12,7 @@ Bruk av Git og GitHub
 Mange foretrekker å skrive i Etherpad Lite («padden») eller på wikien, 
 men de offisielle filene lagres i [Git](http://git-scm.com) for å ha 
 fullstendig kontroll over hva som går inn i programmet. Git-repoen 
-lagres på GitHub i <https://github.com/piratpartiet/breddeprogram> 
+lagres på GitHub i <https://github.com/piratpartiet/pir-breddeprogram> 
 (heretter kalt «hovedrepoen»). Denne repoen bør ikke pushes til direkte, 
 men lag din egen fork (kopi av repoen) ved å trykke «Fork» som er oppe 
 til høyre på GitHub-siden. For at du skal kunne gjøre dette, må du være 
@@ -20,7 +20,7 @@ registrert på GitHub.
 
 Git er distribuert, så folk som ikke vil bruke GitHub kan derfor lagre 
 repoen sin andre steder. For å ha best mulig oversikt over hva som skjer 
-i `breddeprogram.git` vil det enkleste være om vi konsentrerer 
+i `pir-breddeprogram.git` vil det enkleste være om vi konsentrerer 
 aktiviteten på GitHub, men har du noe spesielt mot GitHub, er det 
 selvfølgelig ingen tvang.
 
@@ -41,13 +41,13 @@ inn i repoen, forandres statusen til «lukket» (closed) og listes ikke ut
 sammen med de som ligger på vent.
 
 Issue-trackeren for breddeprogrammet ligger på 
-<https://github.com/piratpartiet/breddeprogram/issues>.
+<https://github.com/piratpartiet/pir-breddeprogram/issues>.
 
 ### Brancher
 
-`master`-branchen i <https://github.com/piratpartiet/breddeprogram> er 
-stabil. Ingen forandringer skal gå direkte inn der uten at forandringen 
-er sett over og godkjent av minst ett annet medlem i 
+`master`-branchen i <https://github.com/piratpartiet/pir-breddeprogram> 
+er stabil. Ingen forandringer skal gå direkte inn der uten at 
+forandringen er sett over og godkjent av minst ett annet medlem i 
 [Programbanden](http://wiki.piratpartiet.no/index.php?title=Programbanden). 
 Dette er for å unngå at feil forandringer introduseres i den stabile 
 versjonen. Pullrequester kan brukes, eller man kan henvise til branchen 
@@ -59,8 +59,8 @@ Bruk et beskrivende navn, for eksempel `skrivefeil-rettinger`,
 `readme-forandringer`, `nytt-punkt-om-utdanning` og så videre. Hvis 
 klonen av hovedrepoen ligger på GitHub, kan alle se på aktiviteten i 
 alle nye brancher ved å gå inn på 
-«[Network](https://github.com/piratpartiet/breddeprogram/network)» på 
-GitHub-siden.
+«[Network](https://github.com/piratpartiet/pir-breddeprogram/network)» 
+på GitHub-siden.
 
 ### Godkjenning av forandringer
 
@@ -133,14 +133,14 @@ Det som er listet opp her, er helt grunnleggende «god praksis» ved bruk
 av Git. Brudd på denne praksisen medfører ikke nødvendigvis kjølhaling, 
 men at forandringene blir refusert og at du dermed må forandre på 
 feilene som er påpeket. Men det å introdusere feil i `master`-branchen i 
-hovedrepoen på <https://github.com/piratpartiet/breddeprogram> er en 
+hovedrepoen på <https://github.com/piratpartiet/pir-breddeprogram> er en 
 annen historie. Det skal _ikke_ forekomme og er som oftest et tegn på at 
 konvensjonene er brutt, for eksempel at forandringer er pushet direkte 
 til repoen uten at noen andre har sett over dem. Alle kan gjøre feil, 
 men alvorlige eller gjentatte brudd på disse konvensjonene som fører til 
 at `master` i hovedrepoen blir forurenset, kan føre til degradering/tap 
 av pushrettigheter i hovedrepoen. Selv om dette skulle skje, vil man 
-fortsatt kunne lage sin egen klone av `breddeprogram.git` og lage en 
+fortsatt kunne lage sin egen klone av `pir-breddeprogram.git` og lage en 
 pullrequest eller post i issue-trackeren.
 
 Men la ikke disse småstrenge reglene forhindre deg fra å delta i 
