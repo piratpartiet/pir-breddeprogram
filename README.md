@@ -1,7 +1,10 @@
 Breddeprogram for Piratpartiet Norge
 ====================================
 
-Dette er de offisielle breddeprogram-filene for Piratpartiet Norge. 
+Dette var de offisielle breddeprogram-filene for Piratpartiet Norge. 
+Det er ikke noe offisielt program for Piratpartiet, og kan nå bare betraktes som kladd for valgprogrammet.
+For øyeblikkelig består det offisielle programmet til Piratpartiet av Piratkodeksen, kjerneprogram og valgprogram.
+
 Teksten skrives i MarkDown som kan konverteres til andre formater, for 
 eksempel XHTML som limes inn på <http://piratpartiet.no> eller 
 <http://wiki.piratpartiet.no>.
