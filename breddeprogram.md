@@ -6,6 +6,7 @@
 1. Dit
 1. Dat
 1. Dut
+1. Dot
 1. Dette gikk meg hus forbi
 
 Norge følger mange andre land som allerede har Piratpartier. Det første Piratpartiet ble stiftet i Sverige i 2006 som en reaksjon på det svenske «Anti-Piratbyråns» arbeid mot brudd på opphavsrett på Internett. Piratpartiene internasjonalt jobber for de mulighetene nettet gir oss. Vi mener kunnskap og kultur skal deles og gjenbrukes, at individets rettigheter skal forsvares, og at nettet muliggjør en mer direkte og demokratisk politisk modell.
