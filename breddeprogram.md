@@ -3,14 +3,17 @@
 
 ## Innledning
 
+1. Dit
+1. Dat
+1. Dut
+1. Dette gikk meg hus forbi
+
 Norge følger mange andre land som allerede har Piratpartier. Det første Piratpartiet ble stiftet i Sverige i 2006 som en reaksjon på det svenske «Anti-Piratbyråns» arbeid mot brudd på opphavsrett på Internett. Piratpartiene internasjonalt jobber for de mulighetene nettet gir oss. Vi mener kunnskap og kultur skal deles og gjenbrukes, at individets rettigheter skal forsvares, og at nettet muliggjør en mer direkte og demokratisk politisk modell.
 Historien til Piratpartiets kjerneprogram
 
-Piratpartiets kjerneprogram ble vedtatt på partiets første landsmøte i mars 2013. Dokumentet ble skrevet i fellesskap på nettet og diskutert i plenum på landsmøtet. Kjerneprogrammet inneholder våre viktigste standpunkter og danner grunnlaget for valgkampene framover. Vi ønsker å gjøre Piratpartiet til en politisk maktfaktor i Norge!
-
 På landsmøtene i mars 2016 og mai 2017 ble omfattende oppdateringer av kjerneprogrammet vedtatt. Nye forslag ønskes alltid velkomne av Programbanden og kan sendes til programbanden@piratpartiet.no.
 
-> Piratpartiet tilbyr ikke ferdige løsninger, men metodene for å finne dem.
+> Partiet tilbyr ikke ferdige løsninger, men metodene for å finne dem.
 
 Først av alt, det er Piratpartiet og så er det piratbevegelsen. Vi strever for personvern, åpenhet, nettnøytralitet og opphavsrettsreform, men også for verdighet, frihet, likhet og brukermedvirkning (fordeling av maktbasen). Uten en sterk piratbevegelse vil Piratpartiet dø. Piratpartiet mener at partipolitikk etter dagens mønster ikke fungerer. Det er ikke vårt mål, men bare et middel. Piratpartiet tror ikke på partipolitikk, siden det kveler og ødelegger våre demokratier. Piratpartiet spiller en viktig rolle som kommer godt med i valgår. Vi deltar i spillet for å hacke og reformere politikken. Vi ønsker å sikre at våre (alle innbyggeres) stemmer blir hørt av de tradisjonelle lederne. Samtidig vil Piratpartiet alltid være forsiktig og fokusere konstant på å unngå at partipolitikk hacker Piratpartiet. Det er vår oppgave å gjenvinne og omforme ord som «politikk» og «demokrati». Vi må alle bevare våre opprørske sjeler, det er det som gjør oss til pirater.
 
